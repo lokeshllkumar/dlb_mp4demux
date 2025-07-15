@@ -33,6 +33,14 @@ For Windows platform development, Visual Studio 2010 must be installed with SP1.
     "make mp4demuxer_release"
     "make mp4demuxer_debug"
 
+#### Using the makefiles (on macOS)         
+    After cloning the dlb_mp4demux respository to your local machine, go to the directory labelled as "macOS":    
+    "cd dlb_mp4demux/make/mp4demuxer/macos"
+    
+    Then build one of the following make targets:
+    "make mp4demuxer_release"
+    "make mp4demuxer_debug"
+
 #### Using the Visual Studio Solutions(on Windows)
 
     From a Visual Studio 2010 command line window:
